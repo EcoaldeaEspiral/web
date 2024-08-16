@@ -31,8 +31,8 @@ title: Base del Proyecto
     sala de cine, juegos, danzas, espacios artísticos creativos y de
     lectura, etc.
 
-6. Dentro de la ecoaldea solo comercializamos
-    económicamente lo que es comunitario.
+6. Dentro de la ecoaldea solo **comercializamos
+    económicamente lo que es comunitario**.
     Cada persona puede realizar cualquier tipo de producto
     en su casa para venderlo fuera de la ecoaldea,
     siempre en armonía con el proyecto y las decisiones comunitarias,

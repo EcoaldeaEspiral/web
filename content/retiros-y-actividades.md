@@ -1,5 +1,5 @@
 ---
-title: ./p/retiros-y-actividades-de-la-ecoaldea.md
+title: Retiros y Actividades
 ---
 
 TODO

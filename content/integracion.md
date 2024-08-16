@@ -38,9 +38,9 @@ es porque has nacido para crear un mundo nuevo.**
 
     1. 3 meses previos de [Visita de Integración]
 
-    3. 12 meses de “Tierra” de la ecoaldea, para armonizar con la vida y la naturaleza que nos acoge
+    2. 12 meses de “Tierra” de la ecoaldea, para armonizar con la vida y la naturaleza que nos acoge
 
-    2. 5 meses de “Lluvia” de la ecoaldea, para vivir el día a día de la ecoaldea y la vida en comunidad
+    3. 5 meses de “Lluvia” de la ecoaldea, para vivir el día a día de la ecoaldea y la vida en comunidad
 
     4. 14 meses de “Flor” de la ecoaldea
 
@@ -251,7 +251,7 @@ viven en la misma.
 ## Resumen
 
 Haces 3 meses seguidos de _Visita de Integración_
-+ 21 días de reflexión
+\+ 21 días de reflexión
 y a partir de ese momento
 y hasta el siguiente 1. de marzo,
 puedes iniciar la integración en la fecha que tú has decidido.
