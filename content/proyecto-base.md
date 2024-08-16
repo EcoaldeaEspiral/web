@@ -134,6 +134,4 @@ title: Base del Proyecto
 ¿resuena en ti esta idea?**
 ¡Un amoroso abrazo!
 
-Para contactar:
-[`ecoaldeavegetariana@gmail.com`](
-mailto:ecoaldeavegetariana@gmail.com)
+[Conéctate con nosotros](contacto.md)

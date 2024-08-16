@@ -35,8 +35,7 @@ Las mismas que se aplican a la [Visita de Agua].
 1. Lee detenidamente toda la información disponible en nuestra página web.
 
 2. En caso de tener preguntas o dudas,
-    escríbenos al correo de la ecoaldea:
-    [`ecoaldeavegetariana@gmail.com`]
+    [escríbenos][contacto]
 
 3. Envía un correo a la ecoaldea expresando tu deseo de unirte a
     nosotros, proporcionando toda la información que consideres relevante
@@ -46,7 +45,7 @@ Las mismas que se aplican a la [Visita de Agua].
     rellena el siguiente cuestionario.
     **Para poder cumplimentar cualquier documento a partir del
     link, tienes que descargarlo en tu ordenador**
-    y una vez cumplimentado, lo envias a [`ecoaldeavegetariana@gmail.com`]:
+    y una vez cumplimentado, [lo envias][contacto]:
 
     ***[Cuestionario - visita de integracion](https://docs.google.com/document/d/1UsPI2JNYBMur1zIiJKtzPML3rZUBRyryb1T099cy7W0/edit?usp=drive_link)***
 
@@ -84,4 +83,4 @@ Leete con atencion las [Condiciones Generales **para todas las visitas**](genera
 
 [Visita de Agua]: agua.md
 [Integracion]: integracion.md
-[`ecoaldeavegetariana@gmail.com`]: mailto:ecoaldeavegetariana@gmail.com
+[contacto]: ../contacto.md

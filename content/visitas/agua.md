@@ -98,8 +98,7 @@ Los pasos para poder realizar la _Visita de Agua_ son los siguientes:
 1. Lee tranquila y atentamente el proyecto de la ecoaldea
     y toda la información de la web.
     Si tienes alguna duda,
-    plantea tus preguntas por [correo electrónico a ecoaldeavegetariana@gmail.com](
-    mailto:ecoaldeavegetariana@gmail.com).
+    [plantea tus preguntas][contacto].
 
 2. Envíanos un correo electrónico a la dirección de la ecoaldea
     expresando tu deseo de realizar la _Visita de Agua_.
@@ -107,8 +106,7 @@ Los pasos para poder realizar la _Visita de Agua_ son los siguientes:
     rellena este cuestionario para tu _Visita de Agua_.
     **Para poder cumplimentar cualquier documento a partir del link,
     tienes que descargarlo en tu ordenador** y una vez rellenado,
-    lo envias a [ecoaldeavegetariana@gmail.com](
-    mailto:ecoaldeavegetariana@gmail.com).
+    [nos lo envias][contacto].
 
     ***[Cuestionario - visita de agua](
     https://docs.google.com/document/d/1JXqR2QlBnPZd0zRbhLWu43jbW37HWLQ0V49aPTjlYzA/edit?usp=drive_link)***
@@ -156,3 +154,4 @@ Leete con atencion las [Condiciones Generales **para todas las visitas**](genera
 [Como llegar](../como-llegar.md)
 
 [Visita de Agua]: agua.md
+[contacto]: ../contacto.md

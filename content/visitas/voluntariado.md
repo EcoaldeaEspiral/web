@@ -42,12 +42,11 @@ entre todas las personas,
 intentamos poner nuestro granito de arena para que éste sea un mundo mejor.
 
 Si estás interesado en participar en este voluntariado,
-envía un correo a la Ecoaldea ([`ecoaldeavegetariana@gmail.com`](
-mailto:ecoaldeavegetariana@gmail.com))
+[envía un correo a la Ecoaldea][contacto]
 y completa el siguiente cuestionario en su totalidad.
 Para poder cumplimentar cualquier documento a partir del link,
 tienes que descargarlo en tu ordenador y una vez rellenado,
-lo envias a `ecoaldeavegetariana@gmail.com`.
+[nos lo envias][contacto].
 La Ecoaldea te enviará una confirmación definitiva sobre tu propuesta de voluntariado.
 
 [**Cuestionario**](https://docs.google.com/document/d/1gJgGA7aaz21oYvZHgYB1rHM2cBJa6-vUt5zD7LPs1z8/edit?usp=drive_link)
@@ -58,8 +57,8 @@ y [Consentimiento Informado de imágenes y videos](../acuerdo-fotos.md) rellenad
 confirmando así tu reserva.
 
 Para cualquier pregunta o obtener más información,
-no dudes en contactar con la Ecoaldea a través de su correo electrónico:
-
-[`ecoaldeavegetariana@gmail.com`](mailto:ecoaldeavegetariana@gmail.com)
+no dudes en [contactar con la Ecoaldea][contacto].
 
 ¡Gracias!
+
+[contacto]: ../contacto.md

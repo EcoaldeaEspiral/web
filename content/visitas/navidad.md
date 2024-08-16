@@ -21,7 +21,6 @@ o la noche de Fin de Año,
 en cuyo caso hay un suplemento de 21 euros.
 
 Para cualquier pregunta o obtener más información,
-no dudes en contactar con la Ecoaldea a través de [su correo electrónico](
-mailto:ecoaldeavegetariana@gmail.com):
+no dudes en [contactar con la Ecoaldea][contacto]:
 
-`ecoaldeavegetariana@gmail.com`
+[contacto]: ../contacto.md

@@ -35,8 +35,7 @@ La duración mínima de esta visita es de 7 noches
 y se puede comenzar en cualquier día del mes
 a partir de las 15:30h.
 Para solicitar una Visita de Luz,
-debes completar un cuestionario y enviarlo por [correo electrónico](
-mailto:ecoaldeavegetariana@gmail.com) a la dirección de la ecoaldea.
+debes completar un cuestionario y [enviárnoslo][contacto].
 La ecoaldea te enviará un correo de confirmación de tu visita.
 
 ## Cuestionario
@@ -46,8 +45,7 @@ Cuestionario a rellenar para tu visita de Luz:
 [**Cuestionario**](https://docs.google.com/document/d/1o547pq3Sj3Q7k4Qf6K5mQ3NQrT8JN30I6EBA0KT14ZU/edit?usp=drive_link)
 
 **Para poder cumplimentar cualquier documento a partir del link, tienes
-que descargarlo en tu ordenador** y una vez rellenado, lo envias a
-ecoaldeavegetariana@gmail.com .
+que descargarlo en tu ordenador** y una vez rellenado, [nos lo envias][contacto].
 
 Una vez que la ecoaldea confirme tu Visita de Luz,
 envíanos un correo electrónico de confirmación con el justificante del ingreso de 50 Euros
@@ -83,3 +81,4 @@ Leete con atencion las [Condiciones Generales **para todas las visitas**](genera
 [Como llegar](../como-llegar.md)
 
 [Visita de Agua]: agua.md
+[contacto]: ../contacto.md

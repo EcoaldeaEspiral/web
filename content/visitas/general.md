@@ -64,10 +64,9 @@ sólo se puede acceder a la Ecoaldea en vehículo 4x4.
 ## Cuestionarios
 
 **Para poder cumplimentar cualquier cuestionario o documento,
-primero tienes que descargarlo en tu ordenador.
-**Una vez rellenado
-ya puedes enviarlos al e-mail de la ecoaldea: [*ecoaldeavegetariana@gmail.com*](
-mailto:ecoaldeavegetariana@gmail.com).
+primero tienes que descargarlo en tu ordenador.**
+Una vez rellenado
+ya puedes [enviarlos a la ecoaldea][contacto].
 
 ## Consumos prohibidos
 
@@ -163,10 +162,10 @@ como pasta de dientes vegana y ecológica,
 y usar servilletas y trapos de cocina en lugar de papel
 para reducir el desperdicio.
 Si tienes más preguntas o necesitas aclaraciones adicionales,
-no dudes en contactarnos a través del [correo electrónico de la Ecoaldea](
-mailto:ecoaldeavegetariana@gmail.com).
+no dudes en [contactarnos][contacto].
 
 **¡Esperamos que disfrutes de tu visita a la Ecoaldea Espiral!**
 
 [Visita de Agua]: agua.md
 [Visita de Luz]: luz.md
+[contacto]: ../contacto.md

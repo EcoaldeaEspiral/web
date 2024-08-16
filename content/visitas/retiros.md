@@ -12,12 +12,10 @@ Te invitamos a revisar la información sobre la [Visita de Luz]
 y los espacios disponibles para [dormir en la Ecoaldea](../alojamiento.md).
 
 Si tienes alguna pregunta o necesitas más información,
-contáctanos a través del [correo de la Ecoaldea](
-mailto:ecoaldeavegetariana@gmail.com):
-
-`ecoaldeavegetariana@gmail.com`
+[contáctanos][contacto].
 
 ¡Estamos aquí para ayudarte a organizar tu retiro
 en un entorno natural y tranquilo!
 
 [Visita de Luz]: luz.md
+[contacto]: ../contacto.md

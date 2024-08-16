@@ -65,10 +65,14 @@ la vida y el desarrollo de la misma.
 
 [Más información](integracion.md)
 
-## Contacto
+---
 
-Contacto: [ecoldeavegetariana@gmail.com](mailto:ecoldeavegetariana@gmail.com)
+[Contacto][contacto]
+
+---
 
 Todos los derechos reservados © Ecoaldea Espiral
 
 Un lugar donde la energía, la magia y el amor se encuentran
+
+[contacto]: contacto.md

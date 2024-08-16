@@ -34,9 +34,8 @@ Portugal,** entonces tienes que seleccionar ***TRANSFERENCIA
 INTERNACIONAL*** , pues las cuentas de Portugal tienen un número más que
 las españolas)
 
-Una vez realizada la donación, por favor, envíanos un correo electrónico
-para informarnos y poder agradecértelo. Correo:
-*ecoaldeavegetariana@gmail.com*
+Una vez realizada la donación, por favor, [envíanos un correo electrónico][contacto]
+para informarnos y poder agradecértelo.
 
 GRACIAS
 
@@ -136,3 +135,4 @@ y por contribuir a que la energía de este hermoso proyecto
 siga fluyendo y se haga realidad en su totalidad y esplendor!**
 
 [la cuenta]: #cuenta
+[contacto]: contacto.md

@@ -30,7 +30,7 @@ Visita Relámpago y te manda la confirmación oficial de tu visita. El
 donativo de tu Visita Relámpago lo aportarás en metálico el primer día
 de tu llegada a la ecoaldea. **Para poder cumplimentar cualquier
 documento a partir del link, tienes que descargarlo en tu ordenador** y
-una vez rellenado, lo envias a ecoaldeavegetariana@gmail.com .
+una vez rellenado, [nos lo envias][contacto].
 
 ***[https://docs.google.com/document/d/146uCKKaqNgSN99H0bIK5qhZUUWmOY9UYN_K7DomGoew/edit?usp=drive_link](https://docs.google.com/document/d/146uCKKaqNgSN99H0bIK5qhZUUWmOY9UYN_K7DomGoew/edit?usp=drive_link)***
 
@@ -45,3 +45,5 @@ rellenados y firmados , confirmando así tu reserva.
 En la confirmación oficial de tu visita, te explicaremos cómo llegar al
 pueblo cercano a la ecoaldea y dónde te esperamos para recogerte con el
 4X4.
+
+[contacto]: ../contacto.md
