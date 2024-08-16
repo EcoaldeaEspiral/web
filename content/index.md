@@ -12,7 +12,7 @@ title: Ecoaldea Espiral
 
 Un lugar donde la energía, la magia y el amor se encuentran
 
-![cosina y la casita "las mimosas"](imgs/05.jpg)
+![cocina y la casita "las mimosas"](imgs/05.jpg)
 
 ## Acerca de
 
@@ -42,7 +42,7 @@ y entre las personas.
 
 [Más información](proyecto-base.md)
 
-![vista hacia el valle y las montanias "las piramides"](imgs/02.jpg)
+![vista hacia el valle y las montañas "las pirámides"](imgs/02.jpg)
 
 ## Visitas
 
