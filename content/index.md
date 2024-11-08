@@ -23,7 +23,7 @@ del bosque, del río, las pozas, los riachuelos, los nacimientos naturales de ag
 y de los seres mágicos nos acompañan,
 compartiendo el amor y las sabidurías.
 
-[Más información](el-lugar.md)
+[Más información](lugar.md)
 
 ![el rio con sol](imgs/01.jpg)
 
