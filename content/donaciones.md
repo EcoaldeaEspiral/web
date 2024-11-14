@@ -134,5 +134,16 @@ LO MÁS URGENTE:
 y por contribuir a que la energía de este hermoso proyecto
 siga fluyendo y se haga realidad en su totalidad y esplendor!**
 
+### Segundo Mano
+
+Nos gustan cosas usados de alta cualidad; pueden ser viejos también.
+En Portugal se pueden buscar por ejemplo aquí:
+
+- <https://www.olx.pt>
+- <https://www.custojusto.pt>
+- <https://www.vinted.pt>
+- <https://pt.wallapop.com>
+- <https://pt.ebay.com>
+
 [la cuenta]: #cuenta
 [contacto]: contacto.md
