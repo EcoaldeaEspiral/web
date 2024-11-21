@@ -1,0 +1,20 @@
+# SPDX-FileCopyrightText: 2023-2024 Robin Vobruba <hoijui.quaero@gmail.com>
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+[book]
+authors = ["Robin Vobruba <hoijui.quaero@gmail.com>"]
+language = "es"
+multilingual = false
+src = "."
+title = "Ecoaldea Espiral"
+
+[build]
+build-dir = "build/html"
+
+[output.html]
+site-url = "/web/"
+no-section-label = true
+smart-punctuation = false
+git-repository-url = "https://github.com/EcoaldeaEspiral/web"
+edit-url-template = "https://github.com/EcoaldeaEspiral/web/edit/master/{path}"
