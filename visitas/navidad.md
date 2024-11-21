@@ -1,5 +1,6 @@
 ---
-pagetitle: Navidad y/o Fin de Año
+title: Navidad y/o Fin de Año
+subtitle: Visita de Navidad y/o Fin de Año
 ---
 
 Abrimos la Ecoaldea Espiral para celebrar la Navidad y/o Fin de Año en la Ecoaldea.

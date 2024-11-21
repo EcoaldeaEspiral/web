@@ -1,5 +1,6 @@
 ---
-title: Integrarse a Vivir en la Ecoaldea
+title: Integracion
+subtitle: Integrarse a Vivir en la Ecoaldea
 ---
 
 # Para integrarse a vivir en la ecoaldea

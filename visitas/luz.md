@@ -1,5 +1,6 @@
 ---
 title: Visita de Luz
+subtitle: Visita de Luz
 ---
 
 Las _Visitas de Luz_ están disponibles desde el 1 de marzo

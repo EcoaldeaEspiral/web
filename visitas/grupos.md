@@ -1,5 +1,6 @@
 ---
-pagetitle: Visita de Grupos
+title: Grupos
+subtitle: Visita de Grupos
 ---
 
 Ofrecemos condiciones especiales para visitas de grupos de 12 o más personas.

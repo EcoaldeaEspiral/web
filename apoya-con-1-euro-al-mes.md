@@ -1,5 +1,6 @@
 ---
-title: Apoya con 1 Eur al mes
+title: Apoya
+subtitle: Apoya con 1 Eur al mes
 ---
 
 ## AYÚDANOS A AVANZAR

@@ -1,5 +1,6 @@
 ---
-pagetitle: Visita de Retiros
+title: Retiros
+subtitle: Visita de Retiros
 ---
 
 Organiza tu retiro, curso, taller o encuentro en la Ecoaldea Espiral.

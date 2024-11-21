@@ -1,5 +1,6 @@
 ---
-pagetitle: Visita de Grupos
+title: Voluntariado
+subtitle: Visita de Voluntariado
 ---
 
 Ofrecemos 1 plaza de voluntariado **para cocina** en la Ecoaldea Espiral,

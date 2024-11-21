@@ -1,5 +1,6 @@
 ---
-title: Visitas - General (para todas)
+title: General
+subtitle: Visita General (para todas)
 ---
 
 ## ANIMALES DOMÉSTICOS

@@ -1,5 +1,6 @@
 ---
-title: Visita de Integracion
+title: Integracion
+subtitle: Visita de Integracion
 ---
 
 Esta visita está dirigida a aquellas personas que han decidido

@@ -1,5 +1,6 @@
 ---
-title: Base del Proyecto
+title: Base
+subtitle: Base del Proyecto
 ---
 
 1. La ecoaldea funciona de manera **asamblearia**,

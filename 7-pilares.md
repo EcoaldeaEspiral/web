@@ -1,5 +1,6 @@
 ---
-title: Los 7 Pilares - desde la paz
+title: Los 7 Pilares
+subtitle: desde la paz
 ---
 
 Desde la paz que nos envuelve en el día a día,

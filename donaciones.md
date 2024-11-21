@@ -1,5 +1,6 @@
 ---
-pagetitle: Donaciones - Economicas y de Material
+title: Donaciones
+subtitle: Economicas y de Material
 ---
 
 ## DONACIÓN ECONOMICA PARA TU VISITA A LA ECOALDEA

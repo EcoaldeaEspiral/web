@@ -1,5 +1,6 @@
 ---
-title: El Lugar que Gaia ha ofrecido a la Ecoaldea
+title: Lugar
+subtitle: El Lugar que Gaia ha ofrecido a la Ecoaldea
 ---
 
 El espacio donde está asentada la Ecoaldea Espiral está en un pequeño
