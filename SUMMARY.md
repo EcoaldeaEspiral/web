@@ -13,6 +13,8 @@ This file was auto-generated with script
 do not edit manually!
 -->
 
+[Principal](index.md)
+
 - [Los 7 Pilares](7-pilares.md)
 - [Alojamiento](alojamiento.md)
 - [Apoya](apoya-con-1-euro-al-mes.md)

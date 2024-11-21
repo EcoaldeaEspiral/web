@@ -49,7 +49,7 @@ done
 set -- "${POSITIONAL[@]}" # restore positional parameters
 
 # REUSE-IgnoreStart
-find . -name "*.md" | grep -v "SUMMARY.md" | grep -v "index.md" | sed -e 's|^\./||' | sort | awk -F'/' -e '
+find . -name "*.md" | sed -e 's|^\./||' | grep -v "SUMMARY.md" | grep -v "index.md" | sort | awk -F'/' -e '
 function extract_front_matter_value(file_path, key, _found) {
 
 	cmd_get_value = sprintf("grep \"^%s:\" < \"%s\" | head -1 | sed -e \"s/^%s:[ \t]*//\" -e \"s/[ \t]*$//\"", key, file_path, key)
@@ -71,6 +71,8 @@ BEGIN {
 	print("# Summary")
 	print("\n<!--\nSPDX-FileCopyrightText: Robin Vobruba <hoijui.quaero@gmail.com>\n\nSPDX-License-Identifier: CC-BY-SA-4.0\n-->")
 	print("\n<!--\nNOTE:\nThis file was auto-generated with script\n\"'"$0"'\";\ndo not edit manually!\n-->")
+	print("")
+	print("[Principal](index.md)")
 	print("")
 }
 
@@ -107,7 +109,7 @@ BEGIN {
 			sep = "\n"
 		}
 	} else if (0) {
-		if (section && file_name != "index.md") {
+		if (section) {
 			skip_this_line = 1
 		}
 		sep = "\n"
