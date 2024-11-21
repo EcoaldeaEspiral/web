@@ -3,6 +3,13 @@ title: Navidad y/o Fin de Año
 subtitle: Visita de Navidad y/o Fin de Año
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Abrimos la Ecoaldea Espiral para celebrar la Navidad y/o Fin de Año en la Ecoaldea.
 
 Puedes venir como [Visita de Luz](luz.md) durante las noches que desees,

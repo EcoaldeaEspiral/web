@@ -2,6 +2,13 @@
 title: Visitas
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 | Visita de | Estancia minima \[noches\] | Costo por noche \[Eur\] | Costo por noche despues de la estancia minima \[Eur\] | Donativo previo \[Eur\] | Actividad Communitaria | Temporada Commienzo | Temporada Fin | Costo por alojamiento \[Eur\] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Relampado](#relampago) | 2 | 25 | 25 | ??? | no | 1. marzo | 1. noviembre | [extra](../alojamiento.md) |

@@ -3,6 +3,13 @@ title: Integracion
 subtitle: Integrarse a Vivir en la Ecoaldea
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Para integrarse a vivir en la ecoaldea
 
 **Si sientes que no encajas en este mundo,

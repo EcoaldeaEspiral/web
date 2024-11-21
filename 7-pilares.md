@@ -3,6 +3,13 @@ title: Los 7 Pilares
 subtitle: desde la paz
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Desde la paz que nos envuelve en el día a día,
 pasamos a alimentarnos de otra forma distinta a través de la comida.
 Antes, nos preparamos para que todo nuestro ser esté en estado receptivo,

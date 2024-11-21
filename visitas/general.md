@@ -3,6 +3,13 @@ title: General
 subtitle: Visita General (para todas)
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 ## ANIMALES DOMÉSTICOS
 
 Ten en cuenta que la Ecoaldea Espiral ya está completa

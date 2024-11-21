@@ -3,6 +3,13 @@ title: Agua
 subtitle: Visita de Agua
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 **DÍAS DE LLEGADA PARA LAS VISITAS DE AGUA EN 2024 Y OTRAS CUESTIONES
 GENERALES**
 

@@ -4,6 +4,13 @@ title: Relampago
 subtitle: Visita de Relampago
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
   **VISITA RELÁMPAGO (A PARTIR DEL 1 DE MARZO DEL 2024)**
 
 El **tiempo mínimo** de la Visita RELÁMPAGO es de **2 noches y no tiene

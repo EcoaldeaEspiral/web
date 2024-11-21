@@ -3,6 +3,13 @@ title: Integracion
 subtitle: Visita de Integracion
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Esta visita está dirigida a aquellas personas que han decidido
 integrarse y vivir en la Ecoaldea Espiral en el año 2024.
 

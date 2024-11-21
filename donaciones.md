@@ -3,6 +3,13 @@ title: Donaciones
 subtitle: Economicas y de Material
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 ## DONACIÓN ECONOMICA PARA TU VISITA A LA ECOALDEA
 
 Para hacer tu donación de confirmación de tu visita a la Ecoaldea,

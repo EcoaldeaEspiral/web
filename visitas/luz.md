@@ -3,6 +3,13 @@ title: Visita de Luz
 subtitle: Visita de Luz
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Las _Visitas de Luz_ están disponibles desde el 1 de marzo
 hasta el 1 de noviembre.
 El tiempo mínimo para una _Visita de Luz_ en 2024

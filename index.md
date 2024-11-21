@@ -8,6 +8,13 @@ title: Ecoaldea Espiral
 #viewport: width=device-width,initial-scale=1
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Bienvenid@ a Ecoaldea Espiral
 
 Un lugar donde la energía, la magia y el amor se encuentran

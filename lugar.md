@@ -3,6 +3,13 @@ title: Lugar
 subtitle: El Lugar que Gaia ha ofrecido a la Ecoaldea
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 El espacio donde está asentada la Ecoaldea Espiral está en un pequeño
 valle, cerca de una aldea de unos 90 habitantes, que pertenece a la
 comarca de Cabeceiras de Basto, en el Norte de Portugal.

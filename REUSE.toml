@@ -1,0 +1,14 @@
+# SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+#
+# SPDX-License-Identifier: Unlicense
+
+version = 1
+SPDX-PackageName = "EcoaldeaEspiral-web"
+SPDX-PackageSupplier = "Robin Vobruba <hoijui.quaero@gmail.com>"
+SPDX-PackageDownloadLocation = "https://github.com/EcoaldeaEspiral/web/"
+
+[[annotations]]
+path = ["imgs/*.jpg"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["2012-2023 Atzar <ecoaldeavegetariana@gmail.com>"]
+SPDX-License-Identifier = "CC-BY-SA-4.0"

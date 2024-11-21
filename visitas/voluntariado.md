@@ -3,6 +3,13 @@ title: Voluntariado
 subtitle: Visita de Voluntariado
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Ofrecemos 1 plaza de voluntariado **para cocina** en la Ecoaldea Espiral,
 para el período comprendido entre el 1 de julio y el 30 de septiembre de 2024.
 Este voluntariado tiene una duración mínima de 3 meses.

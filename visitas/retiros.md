@@ -3,6 +3,13 @@ title: Retiros
 subtitle: Visita de Retiros
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 Organiza tu retiro, curso, taller o encuentro en la Ecoaldea Espiral.
 Ofrecemos condiciones y donativos similares a la [Visita de Luz] por persona y noche,
 tanto para los participantes como para los organizadores del evento.

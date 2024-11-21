@@ -3,6 +3,13 @@ title: Apoya
 subtitle: Apoya con 1 Eur al mes
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 ## AYÚDANOS A AVANZAR
 
 Estamos recaudando fondos para la ECOALDEA ESPIRAL

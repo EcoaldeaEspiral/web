@@ -2,6 +2,13 @@
 title: Como llegar
 ---
 
+<!--
+SPDX-FileCopyrightText: 2012-2023 Atzar <ecoaldeavegetariana@gmail.com>
+SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 1. En **avión** a Oporto (suele haber vuelos económicos)
     y del aeropuerto salen autobuses
     (Horarios autobuses [GetBus](https://www.getbus.eu/pt/)
