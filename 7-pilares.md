@@ -24,17 +24,17 @@ Esta idea la llevamos a la práctica a través de SIETE pilares,
 el proyecto base y los principios de convivencia
 que aprueba en todo momento la asamblea,
 y que todos ellos sustentan el proyecto.
-ES UN CÍRCULO FORMADO POR SEIS PILARES:
+_Es un circulo formado por seis pilares_:
 
-1. AUTOSUFICIENCIA
-2. ALIMENTACIÓN RESPETUOSA
-3. COMUNIDAD
-4. ECOLOGÍA
-5. SALUD
-6. RESPETO A LA INFANCIA
+- [1 Infancia Respetuosa](#1-infancia-respetuosa)
+- [2 Alimentación Respetuosa](#2-alimentación-respetuosa)
+- [4 Comunidad](#4-comunidad)
+- [5 Ecología](#5-ecología)
+- [6 Autosuficiencia](#6-autosuficiencia)
+- [7 Salud](#7-salud)
 
-Estos SEIS pilares están INTERRELACIONADOS,
-Y EN EL CENTRO DEL CÍRCULO ESTÁ EL PILAR DE LA ESPIRITUALIDAD.
+Estos seis pilares están _interrelacionados_,
+y en el _centro del circulo esta el pilar de la [Espiritualidad](#3-espiritualidad)_.
 El pilar de la espiritualidad es el que da sentido a la forma y contenido
 de la relación entre las personas en el círculo,
 en la ecoaldea.
@@ -43,13 +43,15 @@ sentimos y fluimos en el día a día de la ecoaldea.
 En el centro de este círculo,
 en el centro de la ecoaldea,
 está la espiritualidad...
-EL AMOR...
+**El Amor**...
 
-## PILARES QUE SOSTIENEN Y DAN VIDA AL PROYECTO
+## Pilares
 
-### 1 INFANCIA RESPETUOSA
+Los pilares sostienen y dna vida al proyecto.
 
-Una CRIANZA, MATERNIDAD Y EDUCACIÓN RESPETUOSA
+### 1 Infancia Respetuosa
+
+Una **crianza, maternidad y educación respetuosa**
 por respeto al auténtico Ser
 que todos los niños y niñas llevan dentro.
 Basada en la pedagogía de la [Educación Libre],
@@ -118,15 +120,15 @@ se trabajará fundamentalmente con los materiales estructurados,
 desarrollando habilidades específicas como el cálculo o las proporciones,
 y son los/as propio/as niños/as quien corrigen su actividad
 y no el adulto acompañante,
-fomentando su autonomía y autoaprendizaje y activando todos sus potenciales.
+fomentando su autonomía y auto-aprendizaje y activando todos sus potenciales.
 
 El ambiente que se genera es de respeto y alegría
 permitiendo que los conocimientos y experiencias
 surjan siempre de un anhelo interior de cada niño/a.
 
-La mejor forma de aprender es JUGANDO.
+La mejor forma de aprender es **jugando**.
 
-### 2 ALIMENTACIÓN RESPETUOSA
+### 2 Alimentación Respetuosa
 
 Por salud,
 por el resto de los animales,
@@ -134,10 +136,10 @@ por espiritualidad,
 por el planeta,
 por justicia social...
 
-Alimentación VEGANA,
-SIN GLUTEN,
-SIGUIENDO LA TABLA DE COMPATIBILIDAD DE LOS ALIMENTOS
-Y MAYORITARIAMENTE ECOLÓGICA.
+Alimentación **vegana**,
+**sin gluten**,
+siguiendo la tabla de **compatibilidad de los alimentos**
+y mayoritariamente **ecológica**.
 
 En la ecoaldea solo consumimos leches vegetales,
 infusiones,
@@ -171,7 +173,7 @@ en su casa pueden consumir también productos vegetarianos
 y productos no biológicos
 si así lo eligen.
 
-### 3 ESPIRITUALIDAD
+### 3 Espiritualidad
 
 Desde el amor,
 todo es possible...
@@ -205,9 +207,10 @@ y todo sucede en ese momento mágico que llamamos PRESENTE.
 Es necesario parar nuestra mente
 (que habitualmente está en el futuro o en el pasado)
 y vivir con consciencia todo lo que nos ocurre en nuestro recorrido.
-Desarrollar esa Consciencia
+Desarrollamos esa Consciencia
 en lugar de que sea el inconsciente el que guíe nuestra vida
-y vivir desde la totalidad que somos cada momento de nuestras vidas. <!-- TODO This sentence makes no sense ... it is missing a verb or so -->
+y vivimos desde la totalidad que somos
+cada momento de nuestras vidas.
 
 Vivir de forma espiritual es vivir desde el amor,
 el respeto, la compasión, la humildad y la no violencia.
@@ -225,7 +228,8 @@ A cada instante,
 la vida nos ofrece oportunidades para ir más allá,
 para ver desde otro punto de vista lo que nos sucede,
 para enraizarnos en el silencio y la observación de lo que Es,
-permaneciendo firmes y flexibles a la vez (en lugar de rígidos y manipulables),
+permaneciendo firmes y flexibles a la vez
+(en lugar de rígidos y manipulables),
 para decidir desde dónde queremos vivir cada experiencia.
 ¿Dónde quiero poner mi atención?
 ¿Qué acciones emprendo?
@@ -322,7 +326,7 @@ interna y externamente,
 en la teoría y en la práctica.
 
 Temas a los que se refiere este pilar
-y hacia los que nos dirigimos desde este pilar COMUNIDAD,
+y hacia los que nos dirigimos desde este pilar **comunidad**,
 con un trabajo interno y externo.
 Por lo tanto, cuando hablamos de mejorarnos,
 nos referimos a todos estos temas:
@@ -346,7 +350,7 @@ Sentimos que todo lo que está y ocurre dentro de nosotros y nosotras,
 afecta afuera y todo lo que ocurre fuera de nosotras nos afecta internamente;
 todos somos uno.
 
-### 5 ECOLOGÍA
+### 5 Ecología
 
 Vivir en armonía con la madre naturaleza,
 siendo uno con el universo.
@@ -373,7 +377,7 @@ ya que todo lo que afecta a una parte del planeta afecta a todo el planeta.
 Promovemos y expandimos entre toda la población la cultura y energía del cuidado
 y vida en armonía con la naturaleza.
 
-### 6 AUTOSUFICIENCIA
+### 6 Autosuficiencia
 
 En este caso,
 nos referimos al autoabastecimiento de nuestras necesidades individuales y colectivas,
@@ -403,7 +407,7 @@ en el que producimos productos sistemáticamente en la ecoaldea,
 los comercializamos y,
 aunque no los necesitemos mayoritariamente,
 terminamos utilizándolos y dependiendo de ellos.
-Deseamos producir para el autoconsumo,
+Deseamos producir para el auto-consumo,
 para cubrir nuestras necesidades reales.
 Sin embargo,
 esto no significa que no podamos comercializar nada.
@@ -416,14 +420,14 @@ por el momento,
 no podemos producir nosotros mismos,
 comprándolos a productores a precios económicos y reduciendo así los costos.
 
-Nuestro objetivo es autoabastecernos al máximo
+Nuestro objetivo es auto-abastecernos al máximo
 para depender lo menos posible del exterior.
 No obstante, como ecoaldea,
 realizamos actividades dirigidas al exterior,
 como cursos, talleres, retiros, etc.;
 así como otras actividades comunitarias.
 Estas actividades atraen visitantes a la ecoaldea,
-que conocen la ecoaldea y generan economia para ésta.
+que conocen la ecoaldea y generan economía para ésta.
 
 Cultivaremos la tierra para obtener alimentos sanos y llenos de energía.
 Tendremos una escuela para la educación en la ecoaldea.
@@ -448,7 +452,7 @@ además de adecuar infraestructuras para este fin:
 una energía comunitaria que fluya conjuntamente
 y otra individual que fluya con el viento del norte.
 
-### 7 SALUD
+### 7 Salud
 
 Pensar, actuar, sentir...
 en paz y armonía con nuestro cuerpo, mente y espíritu.
@@ -458,11 +462,14 @@ armónicos y en paz.
 Nos cuidaremos de aquellos consumos (en sentido amplio)
 que no aporten salud,
 como la tensión, los nervios, el ego o alimentos y pensamientos nocivos.
-La naturaleza y nuestro propio cuerpo ofrecen tambien remedios de sanación
+La naturaleza y nuestro propio cuerpo ofrecen también remedios de sanación
 cuando hemos perdido la conexión con nuestra verdadera esencia.
 Nos acercaremos hacia aquellas prácticas que benefician a nuestro cuerpo,
 como consumir alimentos sanos y ecológicos,
 a nuestra energía reconectándonos,
 estando atent@s a nuestros pensamientos y emociones
-y relacionándonos con nosotr@s mism@s y con todo lo que nos rodea en paz y armonía,
+y relacionándonos con nosotr@s mism@s
+y con todo lo que nos rodea en paz y armonía,
 sin tensión y con infinito amor.
+
+[Educación Libre]: https://www.educacionlibre.org/
