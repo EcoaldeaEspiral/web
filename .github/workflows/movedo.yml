@@ -54,6 +54,7 @@ jobs:
           mvd install_pdsite
           export PATH="$PATH:$HOME/.pdsite/bin"
           mvd build
+          mv build/html/* build/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
