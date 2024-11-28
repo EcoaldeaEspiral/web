@@ -1,0 +1,26 @@
+%% @config(mermaid_config.json)
+flowchart TD
+    E[Escojer Visita]:::cOther --> QAgua{Estar 14 dias<br/>o mas?}:::cQuestion
+    QAgua -- Si --> QTrabajar{Trabajar y<br/>pagar menos?}:::cQuestion
+    QAgua -- No --> QLuz{Estar 7 dias<br/>o mas?}:::cQuestion
+    QTrabajar -- Si --> VAgua[Agua]:::cVisita
+    QTrabajar -- No --> VLuz[Luz]:::cVisita
+    QLuz -- Si --> VLuz
+    QLuz -- No --> QRelamp{Estar 2 dias<br/>o mas?}:::cQuestion
+    QRelamp -- Si --> VRelamp[Relampago]:::cVisita
+    QRelamp -- No --> VNinguna[Demasiado corto, perdon!]:::cBad
+    subgraph Visitas[ ]
+        VAgua
+        VLuz
+        VRelamp
+    end
+    Visitas:::cVisitas
+    classDef cVisita fill:#dfccbc,color:#2B79A2,stroke:#D14301,stroke-width:0px,text-decoration:underline;
+    classDef cVisitas fill:#eeeeee,color:#2B79A2,stroke:#D14301,stroke-width:0px,text-decoration:underline;
+    classDef cBad fill:#cc0000,color:#ffee00,stroke:#ffffff,stroke-width:0px;
+    classDef cOther fill:#E1E1DB,color:#000000,stroke:#000000,stroke-width:0px;
+    classDef cQuestion fill:#B3A497,color:#000000,stroke:#000000,stroke-width:0px;
+    click VInt "https://ecoaldeaespiral.github.io/web/visitas/integracion.html" "Visit de Integracion" _top
+    click VAgua "https://ecoaldeaespiral.github.io/web/visitas/agua.html" "Visit de Agua" _top
+    click VLuz "https://ecoaldeaespiral.github.io/web/visitas/luz.html" "Visit de Luz" _top
+    click VRelamp "https://ecoaldeaespiral.github.io/web/visitas/relampago.html" "Visit de Relampago" _top
