@@ -10,8 +10,9 @@ set -Eeuo pipefail
 #set -Eeu
 
 script_path="$(readlink -f "${BASH_SOURCE[0]}")"
-#script_dir="$(dirname "$script_path")"
+script_dir="$(dirname "$script_path")"
 script_name="$(basename "$script_path")"
+proj_root="$(cd "$script_dir"/..; pwd)"
 
 function print_help() {
 
@@ -48,8 +49,10 @@ do
 done
 set -- "${POSITIONAL[@]}" # restore positional parameters
 
+cd "$proj_root"
+
 # REUSE-IgnoreStart
-find . -name "*.md" | sed -e 's|^\./||' | grep -v "SUMMARY.md" | grep -v "index.md" | sort | awk -F'/' -e '
+find . -type d -path ./build -prune -o -name "*.md" -print | sed -e 's|^\./||' | grep -v "SUMMARY.md" | grep -v "README.md" | grep -v "index.md" | sort | awk -F'/' -e '
 function extract_front_matter_value(file_path, key, _found) {
 
 	cmd_get_value = sprintf("grep \"^%s:\" < \"%s\" | head -1 | sed -e \"s/^%s:[ \t]*//\" -e \"s/[ \t]*$//\"", key, file_path, key)
@@ -93,6 +96,9 @@ BEGIN {
 	page_title = extract_front_matter_value(file_path, "title")
 	menu = tolower(extract_front_matter_value(file_path, "menu"))
 	skip_this_line = menu == "false"
+	# NOTE We have to remove them (from toc.html) after HTML generation,
+	#      because otherwise no HTML is genreated for them by mdbook.
+	skip_this_line = false
 
 	if (0) {
 		if (new_section) {
