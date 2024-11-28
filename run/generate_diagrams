@@ -1,0 +1,33 @@
+#!/usr/bin/env sh
+# SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
+# SPDX-License-Identifier: Unlicense
+#
+# See the output of "$0 -h" for details.
+
+# Exit immediately on each error and unset variable;
+# see: https://vaneyckt.io/posts/safer_bash_scripts_with_set_euxo_pipefail/
+#set -Eeuo pipefail
+set -eu
+
+script_path="$(readlink -f "$0")"
+script_dir="$(dirname "$script_path")"
+script_name="$(basename "$script_path")"
+
+#mermaid="mmdc"
+mermaid="docker run --rm -u $(id -u):$(id -g) -v .:/data minlag/mermaid-cli"
+
+cd "$script_dir"
+cd ../diagrams
+
+for mmd_file in *.mmd
+do
+	base_file="${mmd_file%%.mmd}"
+	png_file="$base_file.png"
+	svg_file="$base_file.svg"
+# 	$mermaid \
+# 		--input "$mmd_file" \
+# 		--output "$png_file"
+	$mermaid \
+		--input "$mmd_file" \
+		--output "$svg_file"
+done
