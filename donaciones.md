@@ -61,6 +61,12 @@ entonces tienes que seleccionar
 ***Transferencia Internacional***,
 pues las cuentas de Portugal tienen un número más que las españolas)
 
+## Economicas
+
+**TODO** De-duplicate this link and the next section:
+[donaciones economicas](
+https://docs.google.com/document/d/1-vyRgKIiAHNgdqUCkNpj2fvxgoz7v-4eAQIUmjaAb3I/edit)
+
 ## Donación de Material
 
 Aquí iremos enumerando el material que necesitamos en la Ecoaldea

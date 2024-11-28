@@ -164,7 +164,7 @@ y contribuir con algún artículo o donación
 para el desarrollo del proyecto,
 mírate el siguiente link:
 
-[donaciones economicas](https://docs.google.com/document/d/1-vyRgKIiAHNgdqUCkNpj2fvxgoz7v-4eAQIUmjaAb3I/edit)
+[donaciones economicas](../donaciones.md#economicas)
 
 También te recomendamos traer tus propios productos de higiene,
 como pasta de dientes vegana y ecológica,
