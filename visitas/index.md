@@ -28,19 +28,31 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 ## Agua
 
-Las personas que realizan la Visita de Agua sienten y vibran con nuestro proyecto. Su deseo es estar cerca, conectados y fluir con la Ecoaldea, siguiendo el latido del corazón de nuestro proyecto. Nos visitan con la intención de nutrirse, sentir la hermosa vida que aquí late y ayudar a la Ecoaldea.
+Las personas que realizan la Visita de Agua
+sienten y vibran con nuestro proyecto.
+Su deseo es estar cerca,
+conectados y fluir con la Ecoaldea,
+siguiendo el latido del corazón de nuestro proyecto.
+Nos visitan con la intención de nutrirse,
+sentir la hermosa vida que aquí late y ayudar a la Ecoaldea.
 
 [Mas información](agua.md)
 
 ## Luz
 
-Las Visitas de Luz son para personas o familias que desean pasar unos días en la Ecoaldea para descansar, recargarse, conocer el proyecto o simplemente porque no disponen de 14 noches para visitarnos, entre otras razones.
+Las Visitas de Luz son para personas o familias
+que desean pasar unos días en la Ecoaldea para descansar,
+recargarse, conocer el proyecto
+o simplemente porque no disponen de 14 noches para visitarnos,
+entre otras razones.
 
 [Mas información](luz.md)
 
 ## Integracion
 
-Esta visita está dirigida a aquellas personas que han decidido integrarse y vivir en la Ecoaldea Espiral, y desean comenzar el proceso de integración durante el año 2024.
+Esta visita está dirigida a aquellas personas
+que han decidido integrarse y vivir en la Ecoaldea Espiral,
+y desean comenzar el proceso de integración durante el año 2024.
 
 [Mas información](integracion.md)
 
@@ -70,6 +82,9 @@ Ofrecemos condiciones especiales para visitas de grupos de 12 o más personas.
 
 ## Relampago
 
-La Visita Relámpago está dirigida a aquellas personas que desean pasar unos días en la Ecoaldea pero que no disponen de los dias suficientes para hacer los otros tipos de visitas o porque están de paso y quieren conocer la ecoaldea.
+La Visita Relámpago está dirigida a aquellas personas
+que desean pasar unos días en la Ecoaldea
+pero que no disponen de los dias suficientes para hacer los otros tipos de visitas
+o porque están de paso y quieren conocer la ecoaldea.
 
 [Mas información](relampago.md)

@@ -10,14 +10,16 @@ SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-**DÍAS DE LLEGADA PARA LAS VISITAS DE AGUA EN 2024 Y OTRAS CUESTIONES
-GENERALES**
+## Dias de Llegada para las Visitas de Agua en 2024
 
-Para tu Visita de Agua en el año 2024 ( ***excepto en Julio y Agosto que
-las llegadas son en los días marcados*** ) el resto de meses puedes
-llegar cuando te vaya bien, aunque si llegas los días marcados siempre
-es mejor porque coincides con otras personas que llegan en la misma
-fecha y se forma un grupo más unido y se genera más complicidad y unión.
+Para tu Visita de Agua en el año 2024
+(***excepto en Julio y Agosto que
+las llegadas son en los días marcados***)
+puedes llegar cuando te vaya bien,
+aunque si llegas los días marcados siempre es mejor
+porque coincides con otras personas que llegan en la misma fecha
+y se forma un grupo más unido
+y se genera más complicidad y unión.
 
 ## Dias de lluegada en 2024
 
@@ -30,7 +32,7 @@ fecha y se forma un grupo más unido y se genera más complicidad y unión.
 - Septiembre: 2. - 3. o 16. - 17. (recommendado)
 - Octubre:  1. - 2. de o 14. - 5. (recommendado)
 
-RECORDAMOS:
+**Recordamos**
 
 Las visitas de Agua pueden proponer una *estancia mínima de 14 noches*
 (contando todos los tipos de visita de Luz+Agua).

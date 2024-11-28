@@ -10,10 +10,10 @@ SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-## AYÚDANOS A AVANZAR
+## Ayúdanos a Avanzar
 
-Estamos recaudando fondos para la ECOALDEA ESPIRAL
-a través de la plataforma de Teaming,
+Estamos recaudando fondos para la ecoaldea
+a través de la plataforma de [Teaming],
 que es una herramienta de gestión de microdonaciones
 donde cada persona que colabora dona 1€ al mes.
 Necesitamos que la energía se expanda y seamos much@s más
@@ -25,16 +25,18 @@ nos encantaría que te unieras a nosotr@s.
 Estas donaciones van destinadas en su totalidad
 a las infraestructuras de la Ecoaldea.
 
-**[El Grupo en Teaming](https://www.teaming.net/ecoaldeavegetarianaespiral)***
+**[El Grupo en Teaming][Teaming Espiral]**
 
 Si quieres colaborar,
 simplemente tienes que hacer clic en el botón "Únete al Grupo"
-y ayudarás con **SÓLO 1€ al mes**.
+y ayudarás con **sólo 1€ al mes**.
 
 Para agradecer vuestra colaboración,
 a cada persona que se una al grupo de Teaming,
-le **regalamos dos noches de estancia de [Luz][Visita de Luz] en la Ecoaldea.**
+le **regalamos dos noches de estancia de [Luz][Visita de Luz].**
 
-**GRACIAS POR AYUDARNOS A CRECER**
+**Gracias por ayudarnos a crecer**
 
 [Visita de Luz]: visitas/luz.md
+[Teaming]: https://www.teaming.net
+[Teaming Espiral]: https://www.teaming.net/ecoaldeavegetarianaespiral

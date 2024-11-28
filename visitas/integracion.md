@@ -55,7 +55,8 @@ Las mismas que se aplican a la [Visita de Agua].
     link, tienes que descargarlo en tu ordenador**
     y una vez cumplimentado, [lo envias][contacto]:
 
-    ***[Cuestionario - visita de integracion](https://docs.google.com/document/d/1UsPI2JNYBMur1zIiJKtzPML3rZUBRyryb1T099cy7W0/edit?usp=drive_link)***
+    ***[Cuestionario - visita de integracion](
+    https://docs.google.com/document/d/1UsPI2JNYBMur1zIiJKtzPML3rZUBRyryb1T099cy7W0/edit?usp=drive_link)***
 
 5. Una vez recibido, la ecoaldea te enviará un correo de confirmación
     de tu _Visita de Integración_.

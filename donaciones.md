@@ -10,7 +10,7 @@ SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-## DONACIÓN ECONOMICA PARA TU VISITA A LA ECOALDEA
+## Para tu Visita
 
 Para hacer tu donación de confirmación de tu visita a la Ecoaldea,
 puedes hacerlo en [la cuenta].
@@ -20,7 +20,7 @@ por favor,
 envíanos un correo electrónico para informarnos,
 y así confirmar tu visita.
 
-## DONACIÓN PARA INFRAESTRUCTURAS DE LA ECOALDEA
+## Para Infrastructuras
 
 Necesitamos dinero para las infraestructuras de la Ecoaldea,
 especialmente para energías alternativas
@@ -33,7 +33,7 @@ para poder hacer nuestro propio compost.
 Las donaciones económicas se pueden realizar
 mediante transferencia bancaria a la siguiente cuenta:
 
-## PARA HACER EL INGRESO DE LA DONACIÓN ECONÓMICA
+## Para hacer el Ingreso
 
 Mira [la cuenta].
 
@@ -42,10 +42,11 @@ Portugal,** entonces tienes que seleccionar ***TRANSFERENCIA
 INTERNACIONAL*** , pues las cuentas de Portugal tienen un número más que
 las españolas)
 
-Una vez realizada la donación, por favor, [envíanos un correo electrónico][contacto]
+Una vez realizada la donación, por favor,
+[envíanos un correo electrónico][contacto]
 para informarnos y poder agradecértelo.
 
-GRACIAS
+**Gracias**
 
 ### Cuenta
 
@@ -62,7 +63,7 @@ Es de un banco en Portugal.
 (Importante,
 **si haces la transferencia desde una cuenta de fuera de Portugal**,
 entonces tienes que seleccionar
-***TRANSFERENCIA INTERNACIONAL***,
+***Transferencia Internacional***,
 pues las cuentas de Portugal tienen un número más que las españolas)
 
 ## Donación de Material
@@ -102,7 +103,7 @@ en tu propia abundancia!**
 
 ### Material
 
-LO MÁS URGENTE:
+Lo más Urgente:
 
 - Máquina trituradora de ramas para hacer compost
 - Árboles frutales grandes

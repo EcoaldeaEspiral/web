@@ -10,7 +10,7 @@ SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-## ANIMALES DOMÉSTICOS
+## Animales Domésticos
 
 Ten en cuenta que la Ecoaldea Espiral ya está completa
 para recibir visitas o integraciones de perros,
@@ -114,7 +114,7 @@ alimentos que sean veganos y orgánicos.
 En la tienda de la Ecoaldea,
 puedes comprar productos veganos y ecológicos para tu desayuno y merienda.
 
-## MÓVILES
+## Móviles
 
 En la Ecoaldea,
 disponemos de un área designada para cargar teléfonos móviles
@@ -151,7 +151,8 @@ Cada persona es responsable de traer cubiertos estos aspectos.
 Para **dormir** durante tu visita,
 puedes elegir entre diferentes opciones:
 
-**[Optciones para dormir](https://docs.google.com/document/d/1HQQTBBxok78UeSAyuTgyOPshUYLp7xQ2lKdrw0H-YIo/edit)**
+**[Optciones para dormir](
+https://docs.google.com/document/d/1HQQTBBxok78UeSAyuTgyOPshUYLp7xQ2lKdrw0H-YIo/edit)**
 
 Puedes *traer para dormir tu saco de cama o sábanas
 (la bajera, la encimera y cojinera)*.
