@@ -11,16 +11,21 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 | Visita de | Estancia minima \[noches\] | Costo por noche \[Eur\] | Costo por noche despues de la estancia minima \[Eur\] | Donativo previo \[Eur\] | Actividad Communitaria | Temporada Commienzo | Temporada Fin | Costo por alojamiento \[Eur\] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [Relampado](#relampago) | 2 | 25 | 25 | ??? | no | 1. marzo | 1. noviembre | [extra](../alojamiento.md) |
+| [Relampago](#relampago) | 2 | 25 | <- | indiv | no | 1. marzo | 1. noviembre | [extra](../alojamiento.md) |
 | [Luz](#luz) | 7 | 22 | 20 | (7 * 22 =) 154 | no | 1. marzo | 1. noviembre | [extra](../alojamiento.md) |
 | [Agua](#agua) | 14 | 8 | 7 |  50 | si | 1. marzo | 1. noviembre | [extra](../alojamiento.md) |
-| [Retiros](#retiros) | - | 22 | 22 | ??? | no | - | - | [extra](../alojamiento.md) |
-| [Grupos](#grupos) | ??? | ??? | ??? | ??? | ??? | ??? |  ??? | [extra](../alojamiento.md) |
+| [Retiros](#retiros) | - | 22 | <- | indiv | no | - | - | [extra](../alojamiento.md) |
+| [Grupos](#grupos) | indiv | indiv | indiv | indiv | indiv | indiv |  indiv | [extra](../alojamiento.md) |
 | [Voluntariado Cosina](#voluntariado) (2024) | 90 | - | - | - | no | 1. julio | 30. septiembre | [extra](../alojamiento.md) |
-| [Navidad y/o Fin de Ano](#navidad) | 2 | 22 |  22 | 50 | no | 22. diciembre | 9. enero | [extra](../alojamiento.md) |
+| [Navidad y/o Fin de Ano](#navidad) | 2 | 22 |  <- | 50 | no | 22. diciembre | 9. enero | [extra](../alojamiento.md) |
 
-- `-` significa, que no aplica
-- `???` significa, que se hace un acuerdo individual
+Leyendy para la tabula ariba:
+
+| Symbolo | Significado |
+| --- | ------ |
+| `<-` | igual como la columna anterior |
+| `-` | no aplica |
+| `indiv` | se hace un acuerdo individual |
 
 [Condiciones Generales **para todas las visitas**](general.md)
 
