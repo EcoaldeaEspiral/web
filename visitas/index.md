@@ -9,6 +9,19 @@ SPDX-FileCopyrightText: 2024 Robin Vobruba <hoijui.quaero@gmail.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
+<!--
+NOTE We need to use `<object>` instead of MD syntax or `<img>`
+     to get interactivity, including being able to click on links!
+     See <https://vecta.io/blog/best-way-to-embed-svg>.
+-->
+<object type="image/svg+xml" data="../diagrams/fc_visitas_tiempo.svg">
+    <!-- fall back -->
+    <img
+        alt="Flow-Chart diagramma, ayudando a escjer tipo de visita por las noches disponibles"
+        src="../diagrams/fc_visitas_tiempo.svg"
+        />
+</object>
+
 | Visita de | Estancia minima \[noches\] | Costo por noche \[Eur\] | Costo por noche despues de la estancia minima \[Eur\] | Donativo previo \[Eur\] | Actividad Communitaria | Temporada Commienzo | Temporada Fin | Costo por alojamiento \[Eur\] |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [Relampago](#relampago) | 2 | 25 | <- | indiv | no | 1. marzo | 1. noviembre | [extra](../alojamiento.md) |
