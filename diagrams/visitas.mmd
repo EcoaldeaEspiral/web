@@ -1,0 +1,24 @@
+%% @config(mermaid_config.json)
+flowchart TD
+    E[Empezar] --> QInt{Integrar ya!}
+    QInt -- Si --> VInt[Integracion]:::cVisita
+    QInt -- No --> QAgua{Estar 14 dias\no mas?}
+    QAgua -- Si --> QTrabajar{Trabajar y\npagar menos?}
+    QAgua -- No --> QLuz{Estar 7 dias\no mas?}
+    QTrabajar -- Si --> VAgua[Agua]:::cVisita
+    QTrabajar -- No --> VLuz[Luz]:::cVisita
+    QLuz -- Si --> VLuz
+    QLuz -- No --> QRelamp{Estar 2 dias\no mas?}
+    QRelamp -- Si --> VRelamp[Relampago]:::cVisita
+    QRelamp -- No --> VNinguna[Demasiado corto, no!?]
+    subgraph Visitas
+        VInt
+        VAgua
+        VLuz
+        VRelamp
+    end
+    classDef cVisita fill:#ffffaa,color:#2222ff,stroke:#7777ff,stroke-width:2px,text-decoration:underline;
+    click VInt "https://www.ecoaldeaespiral.com/p/visita-de-integracion.html" "Visit de Integracion"
+    click VAgua "https://www.ecoaldeaespiral.com/p/visita-de-agua.html" "Visit de Agua"
+    click VLuz "https://www.ecoaldeaespiral.com/p/visitas-de-luz.html" "Visit de Luz"
+    click VRelamp "https://www.ecoaldeaespiral.com/p/visita-relampago.html" "Visit de Relampago"
