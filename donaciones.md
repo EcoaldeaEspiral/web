@@ -37,11 +37,6 @@ mediante transferencia bancaria a la siguiente cuenta:
 
 Mira [la cuenta].
 
-(Importante, **si haces la transferencia desde una cuenta de fuera de
-Portugal,** entonces tienes que seleccionar ***TRANSFERENCIA
-INTERNACIONAL*** , pues las cuentas de Portugal tienen un número más que
-las españolas)
-
 Una vez realizada la donación, por favor,
 [envíanos un correo electrónico][contacto]
 para informarnos y poder agradecértelo.
