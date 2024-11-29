@@ -49,6 +49,32 @@ jobs:
           printf "[safe]\n\tdirectory = /github/workspace" \
             > /home/runner/work/_temp/_github_home/.gitconfig
 
+      - name: Install mdbook-i18n-helpers from crates.io
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: mdbook-i18n-helpers
+          #version: '^0.5' # You can specify any semver range
+
+      - name: Install i18n-report from crates.io
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: i18n-report
+
+      - name: Install mdbook-linkcheck from crates.io
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: mdbook-linkcheck
+
+      - name: Install mdbook-reading-time from crates.io
+        uses: baptiste0928/cargo-install@v3
+        with:
+          crate: mdbook-reading-time
+
+      - name: "Generate po/messages.pot"
+        run: |
+          MDBOOK_OUTPUT='{"xgettext": {}}' \
+            mdbook build -d po
+
       - name: "Build with MoVeDo"
         run: |
           run/build
