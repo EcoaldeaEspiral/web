@@ -58,8 +58,8 @@ mvd clean
 mvd generate
 mvd make_html
 
-menu_html="build/html/html/toc.html"
-menu_js="build/html/html/toc.js"
+menu_html="build/html/toc.html"
+menu_js="build/html/toc.js"
 echo "Removing non-menu items from the TOC ... (HACK)"
 
 # echo awk -F"'" -e '

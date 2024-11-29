@@ -10,7 +10,7 @@ src = "."
 title = "Ecoaldea Espiral"
 
 [build]
-build-dir = "build/html"
+build-dir = "build"
 
 [output.html]
 site-url = "/web/"
