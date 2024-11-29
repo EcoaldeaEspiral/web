@@ -1,6 +1,7 @@
 ---
 title: Visita de Luz
 subtitle: Visita de Luz
+primary-visit-type: true
 ---
 
 <!--

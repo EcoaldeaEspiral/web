@@ -1,7 +1,7 @@
 ---
-generator: HTML Tidy for HTML5 for Linux version 5.6.0
 title: Relampago
 subtitle: Visita de Relampago
+primary-visit-type: true
 ---
 
 <!--

@@ -1,6 +1,7 @@
 ---
 title: Agua
 subtitle: Visita de Agua
+primary-visit-type: true
 ---
 
 <!--
