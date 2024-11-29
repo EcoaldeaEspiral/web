@@ -16,3 +16,12 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 - [pagina web generado][html]
 
 [html]: https://ecoaldeaespiral.github.io/web/
+
+## Build locally
+
+You need [MoVeDo] installed, and run this on Linux.
+Then you can simply run:
+
+```shell
+run/build
+```
