@@ -18,3 +18,5 @@ no-section-label = true
 smart-punctuation = false
 git-repository-url = "https://github.com/EcoaldeaEspiral/web"
 edit-url-template = "https://github.com/EcoaldeaEspiral/web/edit/master/{path}"
+[output.html.fold]
+enable = true
